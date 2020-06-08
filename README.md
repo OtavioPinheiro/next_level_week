@@ -12,6 +12,12 @@ O tema do projeto foi descarte correto de materiais orgânicos e inorgânicos. C
 ### Layout da aplicação:
 [Ecoleta - Layout](https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/?viewer=1&node-id=)
 
+## Algumas Tecnologias
+* [TypeScript](https://www.typescriptlang.org/)
+* [Node.js](https://nodejs.org/en/)
+* [React](https://pt-br.reactjs.org/)
+* [React-native](https://reactnative.dev/)
+
 ## Como usar
 1. Clonar o projeto, backend, frontend e mobile.
 2. Instalar as dependências do projeto. `npm install` ou `yarn install`
