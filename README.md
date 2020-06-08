@@ -1,4 +1,5 @@
 # Next Level Week #01
+![](ecoleta.png)
 
 ## O que é ?
 Next Level Week é uma semana dedicada a levar os devs para o próximo nível na carreia profissional, utilizando as melhores e atuais tecnologias do mercado, direto ao ponto e do jeito certo. É um evento online e 100% gratuito criada pela empresa  [Rocketseat](https://rocketseat.com.br/).
